@@ -38,19 +38,19 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">Countdown - Timer</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    Create a countdown for your deadlines.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <!-- <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <br /> -->
     <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/enraiha0307/Countdown-Timer">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/enraiha0307/Countdown-Timer/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/enraiha0307/Countdown-Timer/issues">Request Feature</a>
   </p>
 </p>
 
@@ -65,29 +65,28 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-* [Roadmap](#roadmap)
+<!-- * [Roadmap](#roadmap) -->
 * [Contributing](#contributing)
 * [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+<!-- * [Contact](#contact) -->
+<!-- * [Acknowledgements](#acknowledgements) -->
 
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]]
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
+
 `enraiha0307`, `Countdown Timer`, `twitter_handle`, `akankshagahlot0307@gmail.com`
 
 
 ### Built With
 
-* [](React)
+* [React](https://reactjs.org/)
 
-* [](Bootstrap)
+* [Bootstrap](https://getbootstrap.com/)
 
 
 
