@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    height: 100vh;
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.App{
+    color:lightcyan;
+    text-align: center;
+    font-size:35px;
+    margin-top:20%;
+    height: 100vh;
+    
+}
+
+.App-title{
+    font-size: 50px;
+    border: solid lightcyan;
+    border-radius: 10px;
+    margin:1% 20%;
+    
+}
+.Clock-Days,.Clock-Hours,.Clock-Minutes,.Clock-Seconds{
+
+    display: inline;
+    margin: 10px;
+}
+.Deadline-input,Button{
+    display: inline;
+    margin: 5px;
+}
+.Deadline-input{
+    font-size:25px;
+    margin-left: 35%;
+    margin-top: 5px;
+    
+}
+Button{
+    width: 8%;
+    background-color: lightcyan !important;
+    color: rgb(4, 4, 61) !important;
+    
+}
