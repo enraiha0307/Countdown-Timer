@@ -65,9 +65,10 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-<!-- * [Roadmap](#roadmap) -->
 * [Contributing](#contributing)
 * [License](#license)
+<!-- * [Roadmap](#roadmap) -->
+
 <!-- * [Contact](#contact) -->
 <!-- * [Acknowledgements](#acknowledgements) -->
 
@@ -102,10 +103,17 @@ To get a local copy up and running follow these simple steps.
 This is an example of how to list things you need to use the software and how to install them.
 
 * nodejs
+```sh
+sudo apt-get install nodejs
+```
 * npm
 ```sh
-
+sudo apt-get install npm
 ```
+
+
+
+
 
 ### Installation
 
@@ -121,22 +129,12 @@ npm install react-bootstrap bootstrap
 ### Run
 ```sh
 npm start
+```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 Use this timer to know how many days are remaining until your dedline.
-
-# _For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-# <!-- ROADMAP -->
-# ## Roadmap
-
-# See the [open issues](* npm/issues) for a list of proposed features (and known issues).
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -157,39 +155,30 @@ Contributions are what make the open source community such an amazing place to b
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-<!--
+
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Akanksha Gahalot - [@AkankshaGahalot](https://twitter.com/AkankshaGahalot) - email
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/enraiha0307/Countdown-Timer](https://github.com/enraiha0307/Countdown-Timer)
 
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
--->
 
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-# [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=flat-square
-# [contributors-url]: https://github.com/github_username/repo/graphs/contributors
-# [forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=flat-square
-# [forks-url]: https://github.com/github_username/repo/network/members
-# [stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=flat-square
-# [stars-url]: https://github.com/github_username/repo/stargazers
-# [issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=flat-square
-# [issues-url]: https://github.com/github_username/repo/issues
-# [license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=flat-square
+ [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=flat-square
+[contributors-url]: https://github.com/github_username/repo/graphs/contributors
+ [forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=flat-square
+ [forks-url]: https://github.com/github_username/repo/network/members
+ [stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=flat-square
+ [stars-url]: https://github.com/github_username/repo/stargazers
+ [issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=flat-square
+ [issues-url]: https://github.com/github_username/repo/issues
+ [license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=flat-square
 [license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/github_username
-# [product-screenshot]: images/screenshot.png
+ [product-screenshot]: images/screenshot.png
