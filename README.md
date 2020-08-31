@@ -157,23 +157,23 @@ Contributions are what make the open source community such an amazing place to b
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
+<!--
+<!-- CONTACT -->
+## Contact
 
-# <!-- CONTACT -->
-# ## Contact
+Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
-# Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
-# Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
 
 
-# <!-- ACKNOWLEDGEMENTS -->
-# ## Acknowledgements
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
 
-# * []()
-# * []()
-# * []()
-
+* []()
+* []()
+* []()
+-->
 
 
 
@@ -192,4 +192,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/github_username
-[product-screenshot]: images/screenshot.png
+# [product-screenshot]: images/screenshot.png
