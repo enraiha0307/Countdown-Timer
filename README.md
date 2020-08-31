@@ -76,7 +76,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+![screenshot](https://user-images.githubusercontent.com/26249973/91687743-26591380-eb7e-11ea-992d-58a7f6d8c3b5.png)
+
 
 
 `enraiha0307`, `Countdown Timer`, `twitter_handle`, `akankshagahlot0307@gmail.com`
