@@ -46,8 +46,8 @@
     <!-- <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br /> -->
     <br />
-    <a href="https://github.com/enraiha0307/Countdown-Timer">View Demo</a>
-    ·
+<!--     <a href="https://github.com/enraiha0307/Countdown-Timer">View Demo</a> -->
+    
     <a href="https://github.com/enraiha0307/Countdown-Timer/issues">Report Bug</a>
     ·
     <a href="https://github.com/enraiha0307/Countdown-Timer/issues">Request Feature</a>
@@ -149,10 +149,7 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-<!-- LICENSE -->
-## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
